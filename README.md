@@ -1,4 +1,4 @@
-# Hallo, l am QiuseACR
+# Hello, I am QiuseACR
 
 - newbie, I love tinkering with tech.
 
@@ -6,6 +6,7 @@
 
 - ImmortalWrt cloud ImageBuilder pipeline
 - Automation of routine repetitive tasks
+
 ## Tools
 
 - Python · Node.js · Git
