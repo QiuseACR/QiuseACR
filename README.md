@@ -1,16 +1,20 @@
-# 你好，我是 QiuseACR
+# Hallo, l am QiuseACR
 
-折腾 OpenWrt 固件构建，顺手把重复劳动写成脚本。
+- newbie, I love tinkering with tech.
 
-## 手上在做
+## In progress
 
-- ImmortalWrt 云端 ImageBuilder 流水线
-- 日常重复任务的自动化
+- ImmortalWrt cloud ImageBuilder pipeline
+- Automation of routine repetitive tasks
+## Tools
 
-## 关于这个仓库
+- Python · Node.js · Git
+- OpenWrt / ImmortalWrt
 
-GitHub 个人主页仓库：这里的 README 会显示在 https://github.com/QiuseACR 的顶部。
+## About this repository
 
-## 找得到我
+- Expand. Think. Practice.
+
+## How to find me
 
 - GitHub: @QiuseACR
